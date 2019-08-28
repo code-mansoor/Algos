@@ -1,0 +1,10 @@
+//print every letter - basic
+foreach(charIn:charArray) {
+  print(charArray[charIn];
+}
+
+//fibonacci
+
+//factorial
+
+//every [pattern] supplied dynamically
